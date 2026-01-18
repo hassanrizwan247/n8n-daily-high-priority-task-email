@@ -60,14 +60,14 @@ The goal of this project is to demonstrate **core automation fundamentals** such
 | File | Description |
 |----|----|
 | `workflow.json` | Exported n8n workflow |
-| `workflow-screenshot.png` | Visual overview of the workflow |
+| `image.png` | Visual overview of the workflow |
 | `README.md` | Project documentation |
 
 ---
 
 ##  How to Use This Workflow
 
-1. Import `workflow.json` into your n8n instance
+1. Import `Daily task reminder.json` into your n8n instance
 2. Configure Gmail credentials
 3. Adjust task list or schedule time if needed
 4. Activate the workflow
