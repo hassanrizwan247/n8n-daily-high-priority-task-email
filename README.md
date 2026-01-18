@@ -59,7 +59,7 @@ The goal of this project is to demonstrate **core automation fundamentals** such
 
 | File | Description |
 |----|----|
-| `workflow.json` | Exported n8n workflow |
+| `Daily task reminder.json` | Exported n8n workflow |
 | `image.png` | Visual overview of the workflow |
 | `README.md` | Project documentation |
 
